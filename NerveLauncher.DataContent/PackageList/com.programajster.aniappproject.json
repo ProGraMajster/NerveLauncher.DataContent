@@ -2,7 +2,7 @@
   "Name": "AniApp",
   "PackageIdentifier": "com.programajster.aniappproject",
   "Description": "Ogl\u0105daj anime z fanowskimi t\u0142umaczeniami.",
-  "DisplayVersion": "1.0.0",
+  "DisplayVersion": "1.0.0.0",
   "Version": 1,
   "IconLink": "https://raw.githubusercontent.com/ProGraMajster/AniAppProject/refs/heads/master/AniAppProject/Resources/AppIcon/aniappprojecticon.png",
   "DirectDownloadLink": {
