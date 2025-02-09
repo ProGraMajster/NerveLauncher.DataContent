@@ -1,0 +1,20 @@
+{
+  "Name": "Pastopedia",
+  "PackageIdentifier": "com.programajster.pastopedia",
+  "Description": "Zbi\u00F3r wspania\u0142ych dzie\u0142 jakimi s\u0105 pasty.",
+  "DisplayVersion": "1.0.0.4",
+  "Version": 4,
+  "IconLink": "https://raw.githubusercontent.com/ProGraMajster/Pastopedia/refs/heads/master/Pastopedia/Resources/AppIcon/ic.png",
+  "DirectDownloadLink": {
+    "Android": "https://github.com/ProGraMajster/Pastopedia/releases/download/v1.0.0.4/com.programajster.pastopedia-Signed.apk",
+    "Windows": "https://github.com/ProGraMajster/PastopediaWindows/releases/download/v1.0.0/PastopediaWindows.zip"
+  },
+  "Tags": [
+    "Aplikacja",
+    "ProGraMajster"
+  ],
+  "ScreenshotsLink": [
+    ""
+  ],
+  "FileStartPath": "PastopediaWindows.exe"
+}
