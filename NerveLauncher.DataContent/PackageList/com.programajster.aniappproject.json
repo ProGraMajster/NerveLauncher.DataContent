@@ -2,12 +2,12 @@
   "Name": "AniApp",
   "PackageIdentifier": "com.programajster.aniappproject",
   "Description": "Ogl\u0105daj anime z fanowskimi t\u0142umaczeniami.",
-  "DisplayVersion": "1.1.0.0",
-  "Version": 7,
+  "DisplayVersion": "1.2.0.0",
+  "Version": 8,
   "IconLink": "https://raw.githubusercontent.com/ProGraMajster/AniAppProject/refs/heads/master/AniAppProject/Resources/AppIcon/aniappprojecticon.png",
   "DirectDownloadLink": {
-    "Windows": "https://github.com/ProGraMajster/AniAppProject/releases/download/v1.0.0/AniApp-x64.zip",
-    "Android": "https://github.com/ProGraMajster/AniAppProject/releases/download/v1.0.0/com.programajster.aniappproject-Signed.apk"
+    "Windows": "https://github.com/ProGraMajster/AniAppProject/releases/download/v1.2.0/AniApp-x64.zip",
+    "Android": "https://github.com/ProGraMajster/AniAppProject/releases/download/v1.2.0/com.programajster.aniappproject-Signed.apk"
   },
   "Tags": [
     "Aplikacja",
